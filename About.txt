@@ -1,0 +1,3 @@
+FindIt - An iOS application developed in Swift using MVC architecture
+•	Developed an iOS application that provides search results for various categories listed on the application
+•	Integrated text to speech, Apple maps and Google maps to the application which extracts data from multiple APIs
